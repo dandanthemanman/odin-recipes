@@ -1,2 +1,2 @@
 # odin-recipes
-Hello recipes!
+Una manera diferente de decir hola!
